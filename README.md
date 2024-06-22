@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Ayaz Mehmood👋<a href="https://https://github.com/Sh00la/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Sh00la"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/Sh00la"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data++Analyst;Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
 🤵 Founder & CEO of @Innovative Enterprises
@@ -14,7 +14,7 @@
 	
 💰 RISING TALENT at UPWORK ✅
 
-✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
+✨ Favorite Tech: Dialogflow, Power BI, Voiceflow, Excel
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
