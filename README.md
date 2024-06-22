@@ -10,13 +10,13 @@
 
 💋 Saylani
 
-🔥 NLP & VUI Consultant and Web Developer 
+🔥 NLP Consultant and Web Developer
 	
 💰 RISING TALENT at UPWORK ✅
 
 ✨ Favorite Tech: Dialogflow, Power BI, Voiceflow, Excel
 
-📓 I’m currently learning LLM's and Genrative AI... 😭
+📓 I’m currently learning LLM's and Genrative AI... 
 
 📧 ayyazmehmood16@gmail.com
 
